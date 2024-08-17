@@ -6,11 +6,13 @@ Exploratory Data Analysis (EDA) is a critical step in the data science process. 
 
 ### Topics Covered
 This repository includes detailed explanations and examples on the following topics:
+--> Encoding Techniques: Various methods for converting categorical variables into numerical format, such as one-hot encoding, label encoding, and target encoding.
 
-Encoding Techniques: Various methods for converting categorical variables into numerical format, such as one-hot encoding, label encoding, and target encoding.
-Feature Selection: Strategies for identifying the most important features, including filter methods, wrapper methods, and the use of PPS to assess feature importance.
-Feature Engineering: Creating new features from existing data to enhance predictive models, with examples of domain-specific feature engineering.
-Predictive Power Score (PPS): Introduction to PPS, a technique for identifying non-linear relationships between variables and selecting features that contribute most to the target variable.
+--> Feature Selection: Strategies for identifying the most important features, including filter methods, wrapper methods, and the use of PPS to assess feature importance.
+
+--> Feature Engineering: Creating new features from existing data to enhance predictive models, with examples of domain-specific feature engineering.
+
+--> Predictive Power Score (PPS): Introduction to PPS, a technique for identifying non-linear relationships between variables and selecting features that contribute most to the target variable.
 
 ### Contributing
 We welcome contributions to expand and improve the resources in this repository. If you have suggestions, examples, or improvements, please fork the repository and submit a pull request.
